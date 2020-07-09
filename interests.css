@@ -1,0 +1,16 @@
+
+body {
+    background: #fff url(image.png) no-repeat;
+}
+.container {
+    height: 4200px;
+    margin: 0 0;
+    width: 960px;
+}
+.container .content {
+    background-color: #ffaa00;
+}
+.container .footer {
+    background-color: #fff;
+    height: 4120px;
+}
