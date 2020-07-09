@@ -1,0 +1,22 @@
+   
+    <style> 
+div {
+position: absolute;
+margin: 25px;
+padding: 0px;
+left: 450px;
+bottom: 150px;
+right: 0px;
+top: 75px;
+  width: 35px;
+  height: 15px;
+  background-color: grey;
+  animation-name: example;
+  animation-duration: 10s;
+}
+
+@keyframes example {
+  from {background-color: grey;}
+  to {background-color: yellow;}
+}
+</style>
