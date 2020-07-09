@@ -9,17 +9,22 @@ body {
 }
 .container .content {
     background-color: #39B0A2;
-        height: 1420px;
+        height: 800px;
+
 }
 
 .container .horizon {
-    background-color: #302775;
-    height: 1000;
+    background-color: #0A6359;
+    height: 300px;
+   
 }
 
 .container .footer {
-    background-color: #0A6359;
-    height: 420px;
+    background-color: #383838;
+    height: 500px;
 }
 
-
+.container .below {
+    background-color: #996633;
+    height: 300px;
+}
