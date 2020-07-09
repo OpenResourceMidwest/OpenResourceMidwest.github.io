@@ -1,16 +1,25 @@
-
 body {
     background: #fff url(image.png) no-repeat;
 }
 .container {
-    height: 4200px;
+  background-color: #39B0A2;
+    height: 1420px;
     margin: 0 0;
     width: 960px;
 }
 .container .content {
-    background-color: #ffaa00;
+    background-color: #39B0A2;
+        height: 1420px;
 }
+
+.container .horizon {
+    background-color: #302775;
+    height: 1000;
+}
+
 .container .footer {
-    background-color: #fff;
-    height: 4120px;
+    background-color: #0A6359;
+    height: 420px;
 }
+
+
