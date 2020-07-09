@@ -5,7 +5,7 @@ Our favorite quote, "<span id="k">When action grows unprofitable, gather informa
 
 Hey There! You have officially reached the Midwest Resource portflio website.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Here you will find everything you need to automate and extend the reach of your organization.</p>
 <p>You can refer to us as a organization of resource proffessionals distrubted about the Midwest. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> Here you can see where our interest and ambition lies.<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p> Here you can see where our interest and ambition lies.<a href="interest.html"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>We partner closely with many non-profit organizations with the goal of making expensive tech more affordable. <br><br><br>Here is a public portfolio of OpenResourceMidwest LLC.. <a href="Pie.html"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> Please check out some of our free resources, here: <br> <a href="machine.html">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
 
