@@ -6,8 +6,9 @@
     <title>Coding Train: Data/APIs 1</title>
   </head>
   <body>
-    ,text src="" id="vix" />
-    <script>
+
+
+<script>
      
      getData = async => {
       let query = this.state.value;
