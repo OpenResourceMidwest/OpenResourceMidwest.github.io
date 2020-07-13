@@ -8,8 +8,27 @@
   <body>
     ,text src="" id="vix" />
     <script>
-      console.log('about to fetch vix data');
-      fetch('
+     
+     getData = async => {
+      let query = this.state.value;
+      let endpoint = `https://api.iextrading.com/1.0/stock/${query}/batch?types=quote,stats,company,news,chart&range=5y`;
+    
+        fetch(endpoint)
+        .then(response => {
+          if (response.ok) {
+            return response.json();
+         }
+        })
+        .then(responseJson => {
+          this.addData(responseJson);
+        })
+        .catch(error => {
+          console.log(error);
+          this.setState({ inputClass: "animated shake search red" });
+          setTimeout(() => this.setState({ inputClass: "search" }),1000);
+      });
+    
+    
     </script>
     
    </body>
