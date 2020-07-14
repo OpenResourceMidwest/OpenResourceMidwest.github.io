@@ -16,7 +16,7 @@
      
      getData = async => {
       let query = this.state.value;
-      let endpoint = `https://api.iextrading.com/1.0/stock/${query}/batch?types=quote,stats,company,news,chart&range=5y`;
+      let endpoint = `https://cloud.iexapis.com/stable/stock/AAPL/quote?token=pk_753d8a8ac56149ea962b05a57fef0171&period=annual
     
         fetch(endpoint)
         .then(response => {
