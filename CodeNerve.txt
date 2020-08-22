@@ -1,7 +1,7 @@
 <span id="a">open@resource</span>:<span id="b">~</span><span id="c">$</span> cd OpenResource/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
 <span id="a">opened@resource</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->openresource.txt<br/><br/>
 Our favorite quote, "<span id="k">When action grows unprofitable, gather information; when information grows unprofitable, sleep.
-</span>". —Ursula K. Le Guin<!-- sjkfhskjf -->
+</span>" —Ursula K. Le Guin<!-- sjkfhskjf -->
 
 Hey There! You have officially reached the Midwest Resource portflio website.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Here you will find everything you need to automate and extend the reach of your organization.</p>
 <p>You can refer to us as a organization of resource proffessionals distrubted about the Midwest. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
