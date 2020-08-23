@@ -4,7 +4,7 @@
 */
 body {
   /* Location of the image */
-  background-image: url(OpenResourceMidwest.github.io/CSS4ManyResources/background-photo.svg);
+  background-image: url(CSS4ManyResources/background-photo.svg);
   
   /* Image is centered vertically and horizontally at all times */
   background-position: center center;
